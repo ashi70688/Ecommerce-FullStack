@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p1001",
+    "name": "Noise Cancelling Earbuds",
+    "description": "Wireless earbuds with premium noise cancelling features",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/400x300?text=Earbuds",
+    "rating": 4.3,
+    "onSale": true,
+    "specifications": {
+      "color": "White",
+      "battery": "30h"
+    },
+    "reviews": [],
+    "stock": 40,
+    "active": true,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "id": "p1002",
+    "name": "Smart Refrigerator",
+    "description": "Smart fridge with touchscreen and voice control",
+    "price": 1999.99,
+    "originalPrice": 2199.99,
+    "category": "Home Appliances",
+    "image": "https://via.placeholder.com/400x300?text=Fridge",
+    "rating": 4.6,
+    "onSale": false,
+    "specifications": {
+      "capacity": "500L",
+      "color": "Silver"
+    },
+    "reviews": [],
+    "stock": 12,
+    "active": true,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "id": "p1003",
+    "name": "4K Action Camera",
+    "description": "Waterproof camera with 4K recording and image stabilization",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/400x300?text=Action+Camera",
+    "rating": 4.5,
+    "onSale": true,
+    "specifications": {
+      "resolution": "4K",
+      "waterproof": "Yes"
+    },
+    "reviews": [],
+    "stock": 25,
+    "active": true,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "id": "p1004",
+    "name": "Portable Projector",
+    "description": "Compact projector for home and travel use",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/400x300?text=Projector",
+    "rating": 4.1,
+    "onSale": false,
+    "specifications": {
+      "resolution": "1080p",
+      "battery": "2h"
+    },
+    "reviews": [],
+    "stock": 30,
+    "active": true,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "id": "p1005",
+    "name": "Smart Air Purifier",
+    "description": "HEPA smart purifier with app control and air quality monitor",
+    "price": 249.99,
+    "originalPrice": 279.99,
+    "category": "Home Appliances",
+    "image": "https://via.placeholder.com/400x300?text=Air+Purifier",
+    "rating": 4.9,
+    "onSale": true,
+    "specifications": {
+      "filter": "HEPA",
+      "coverage": "500 sq ft"
+    },
+    "reviews": [],
+    "stock": 18,
+    "active": true,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  }
+]
